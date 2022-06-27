@@ -1,0 +1,84 @@
+prb
+look
+look prb
+look Key
+eat
+eat prb
+help
+help prb
+take
+take prb
+take Key
+drop
+drop prb
+drop Key
+drop Key
+take Key
+take Key
+items
+items prb
+back
+back prb
+go
+go prb
+use Beamer
+use
+use prb
+go up
+go east
+look Converting-table
+take Converting-table
+use Converting-table
+look
+go east
+go up
+look
+look Kit-beamer
+take Kit-beamer
+use Kit-beamer
+go down
+look Map
+take Map
+go down
+go futur
+go west
+look Tools
+take Tools
+look Petrol
+take Petrol
+go south
+go down
+go cockpit
+go magical-place
+look Drugs
+take Drugs
+eat Drugs
+drop Drugs
+take Beamer
+items
+go exit
+go reserve
+use Kit-beamer
+drop Kit-beamer
+take Kit-beamer
+go cockpit
+go A-40
+use Beamer
+go cockpit
+go A-40
+take Petrol
+back
+back
+go cockpit
+go A-50
+look Bomb
+take Bomb
+go down
+drop Key
+drop Map
+drop Petrol
+drop Tools
+drop Converting-table
+drop Beamer
+quit prb
+quit

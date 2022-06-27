@@ -1,0 +1,126 @@
+
+Welcome to the World of Zuul!
+World of Zuul is a new, adventure game.
+ 
+You play to: nom du j.
+made by: Aubert Antoine
+ 
+ 
+You are on board of Enola Gay (b-29),around the end of ww2, the game is a remake of ... mission.
+ 
+Type 'help' if you need help.
+You are on the tarmac at the airport, next to your plane..
+Items:  Key
+Exits:  up
+> test complet
+> prb
+I don't know what you mean...
+> look
+You are on the tarmac at the airport, next to your plane..
+Items:  Key
+Exits:  up
+> look prb
+Unknown Item
+> look key
+Unknown Item
+> eat
+Eat has a second word...
+> help
+You must complete your mission, captain.
+You fly in the air.
+ 
+Your command words are: go help quit look eat back test take drop items 
+> go
+Go where?
+> go prb
+Unknown direction
+> go up
+You are in A10.
+Items: 
+Exits:  east up
+> go east
+You are in A11.
+Items:  Converting-table
+Exits:  east
+> look Converting-table
+Converting-table : allows to converting cipher "1337 SP34K";  ( 2.0 Kg).
+> go east
+You are in vA12.
+Items: 
+Exits:  up
+> go up
+You are in A20.
+Items: 
+Exits:  west down
+> go down
+You are in A30.
+Items:  Map
+Exits:  down
+> look Map
+Map : Is needed to goes to A40 ( 0.5 Kg).
+> go down
+You are in A31.
+Items: 
+Exits:  down futur
+> go futur
+You are in A20.
+Items: 
+Exits:  west down
+> go west
+You are in A40.
+Items:  Tools Petrol
+Exits:  south up cockpit
+> look Tools
+Tools : can help to repare something ( 8.7 Kg).
+> look Petrol
+Petrol : Is needed to flight. Becarefull: no petrol = crash ( 60.0 Kg).
+> go south
+You are in A41.
+Items: 
+Exits:  up down
+> go down
+You are in A50.
+Items:  Bomb
+Exits:  down cockpit
+> go cockpit
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+> go magical-place
+You are in a magical place.
+Items:  Drugs
+Exits:  exit
+> go soute
+There is no door!
+> go reserve
+There is no door!
+> go cockpit
+There is no door!
+> go A-40
+There is no door!
+> back
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+> back
+You are in A50.
+Items:  Bomb
+Exits:  down cockpit
+> back prb
+Back doesn't have a second word...
+> go cockpit
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+> go A-50
+You are in A50.
+Items:  Bomb
+Exits:  down cockpit
+> look Bomb
+Bomb : It's the final item to use, to complet your mission ( 80.0 Kg).
+> go down
+You are End...well done.
+Items: 
+Exits: 
+> quit
+Thank you for playing.  Good bye.

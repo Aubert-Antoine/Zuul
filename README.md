@@ -1,2 +1,13 @@
-# Zuul
-Zuul is a board game, made in Java on BlueJ. The aim of the project is to learn basic in java, and concept of object, heritage and documentation. 
+# Zuul -- projet univ
+
+## Description : 
+
+Zuul est un jeu de plateau ou un personnage doit s'echapper. 
+
+## Code :
+Le jeu est codé en java. 
+Il y a toutes les docs. 
+Il y a un rapport .pdf avec toutes les explication
+
+### Credits : 
+@Denis_Bureau pour certaines class -> voir @author 

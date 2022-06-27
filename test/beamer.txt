@@ -1,0 +1,13 @@
+go up
+go up
+take Kit-beamer
+go west
+go cockpit
+go magical-place
+take Beamer
+go soute
+use Kti-beamer
+go cockpit
+use Beamer
+items
+look

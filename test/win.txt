@@ -1,0 +1,7 @@
+go up
+go up
+go west
+go south
+go down
+go down
+quit

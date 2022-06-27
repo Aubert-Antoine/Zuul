@@ -1,0 +1,274 @@
+
+Welcome to the World of Zuul!
+World of Zuul is a new, adventure game.
+ 
+You play to: nom du j.
+made by: Aubert Antoine
+ 
+ 
+You are on board of Enola Gay (b-29),around the end of ww2, the game is a remake of ... mission.
+ 
+Type 'help' if you need help.
+You are on the tarmac at the airport, next to your plane..
+Items:  Key
+Exits:  up
+> test complet
+> prb
+I don't know what you mean...
+> look
+You are on the tarmac at the airport, next to your plane..
+Items:  Key
+Exits:  up
+> look prb
+Unknown Item
+> look Key
+Key : Is required for turn on the aircraft ( 0.1 Kg).
+> eat
+Eat has a second word...
+> eat prb
+Eat what ? You need to have on you the item to eat it
+> help
+You must complete your mission, captain.
+You fly in the air.
+ 
+Your command words are: go help quit look eat back test take drop items use 
+> help prb
+La cmd help n'a pas de second mot !
+> take
+take has a second word... Take what ?
+> take prb
+this item is not here !
+> take Key
+Key has been taken successfully !
+> drop
+drop has a second word... Drop what ?
+> drop prb
+this item is not owned !
+> drop Key
+Key can't be droped in flight
+Key has been dropped successfully !
+> drop Key
+Key can't be droped in flight
+this item is not owned !
+> take Key
+Key has been taken successfully !
+> take Key
+this item is not here !
+> items
+Your Items:  Key
+Your total weight are: 0.1 / 32.0
+> items prb
+La cmd item n'a pas de second mot !
+> back
+You are at the start !
+You are on the tarmac at the airport, next to your plane..
+Items: 
+Exits:  up
+> back prb
+Back doesn't have a second word...
+> go
+Go where?
+> go prb
+Unknown direction
+> use Beamer
+This item is not owned !
+> use
+Use has a second word...
+> use prb
+This item is not owned !
+> go up
+You are in A10.
+Items: 
+Exits:  east up
+Your petrol is 480.0 / 500
+> go east
+You are in A11.
+Items:  Converting-table
+Exits: 
+Your petrol is 460.0 / 500
+> look Converting-table
+Converting-table : allows to converting cipher "1337 SP34K";  ( 2.0 Kg).
+> take Converting-table
+Converting-table has been taken successfully !
+> use Converting-table
+Code accepted 
+You are allow to go: east
+> look
+You are in A11.
+Items: 
+Exits:  east
+> go east
+You are in vA12.
+Items: 
+Exits:  up
+Your petrol is 440.0 / 500
+> go up
+You are in A20.
+Items:  Kit-beamer
+Exits:  west down
+Your petrol is 420.0 / 500
+> look
+You are in A20.
+Items:  Kit-beamer
+Exits:  west down
+> look Kit-beamer
+Kit-beamer : Is needed to charge the beamer ( 3.4 Kg).
+> take Kit-beamer
+Kit-beamer has been taken successfully !
+> use Kit-beamer
+For use the Kit-beamer and charge the Beamer you need to carry it
+> go down
+You are in A30.
+Items:  Map
+Exits:  down
+Your petrol is 400.0 / 500
+> look Map
+Map : Is needed to goes to A40 ( 0.5 Kg).
+> take Map
+Map has been taken successfully !
+> go down
+You are in A31.
+Items: 
+Exits:  down futur
+Your petrol is 380.0 / 500
+> go futur
+You are in A20.
+Items: 
+Exits:  west down
+Your petrol is 360.0 / 500
+> go west
+You are in A40.
+Items:  Tools Petrol
+Exits:  south up cockpit
+Your petrol is 340.0 / 500
+> look Tools
+Tools : can help to repare something ( 8.7 Kg).
+> take Tools
+Tools has been taken successfully !
+> look Petrol
+Petrol : Is needed to flight. Be careful: no petrol = crash ( 40.0 Kg).
+> take Petrol
+The weight is too heavy, drop some items to take it !
+> go south
+You are in A41.
+Items: 
+Exits:  up down
+Your petrol is 320.0 / 500
+> go down
+You are in A50.
+Items:  Bomb
+Exits:  down cockpit
+Your petrol is 300.0 / 500
+> go cockpit
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+Your petrol is 280.0 / 500
+> go magical-place
+You are in a magical place.
+Items:  Drugs Beamer
+Exits:  exit
+Your petrol is 260.0 / 500
+> look Drugs
+Drugs : can increased your weight max ( 0.3 Kg).
+> take Drugs
+Drugs has been taken successfully !
+> eat Drugs
+Your weight max is increased !
+> drop Drugs
+this item is not owned !
+> take Beamer
+Beamer has been taken successfully !
+> items
+Your Items:  Map Key Converting-table Tools Beamer Kit-beamer
+Your total weight are: 27.0 / 64.0
+> go exit
+You are in the soute.
+Items: 
+Exits:  cockpit reserve
+Your petrol is 240.0 / 500
+> go reserve
+You are in the reserve.
+Items: 
+Exits:  cockpit soute
+Your petrol is 220.0 / 500
+> use Kit-beamer
+The item Kit-beamer is remove
+The Beamer is now charged !
+If you enter the command 'use Beamer' you will be teleported to the room where you loaded it
+> drop Kit-beamer
+this item is not owned !
+> take Kit-beamer
+this item is not here !
+> go cockpit
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+Your petrol is 200.0 / 500
+> go A-40
+You are in A40.
+Items:  Petrol
+Exits:  south up cockpit
+Your petrol is 180.0 / 500
+> use Beamer
+You are in the reserve.
+Items: 
+Exits:  cockpit soute
+> go cockpit
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+Your petrol is 160.0 / 500
+> go A-40
+You are in A40.
+Items:  Petrol
+Exits:  south up cockpit
+Your petrol is 140.0 / 500
+> take Petrol
+The weight is too heavy, drop some items to take it !
+> back
+Your petrol is 120.0 / 500
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+> back
+Your petrol is 100.0 / 500
+You are in the reserve.
+Items: 
+Exits:  cockpit soute
+> go cockpit
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+Your petrol is 80.0 / 500
+> go A-50
+You are in A50.
+Items:  Bomb
+Exits:  down cockpit
+Your petrol is 60.0 / 500
+> look Bomb
+Bomb : It's the final item to use, to complet your mission ( 80.0 Kg).
+> take Bomb
+The weight is too heavy, drop some items to take it !
+> go down
+You are End...well done.
+Items: 
+Exits: 
+Your petrol is 40.0 / 500
+> drop Key
+Key can't be droped in flight
+Key has been dropped successfully !
+> drop Map
+Map has been dropped successfully !
+> drop Petrol
+this item is not owned !
+> drop Tools
+Tools has been dropped successfully !
+> drop Converting-table
+Converting-table has been dropped successfully !
+> drop Beamer
+Beamer has been dropped successfully !
+> quit prb
+Quit don't have a second word !
+> quit
+Thank you for playing.  Good bye.

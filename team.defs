@@ -1,0 +1,17 @@
+#Mon Feb 15 15:46:45 CET 2021
+bluej.teamsettings.groupname=
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.yourName=Antoine
+bluej.teamsettings.git.server=git.esiee.fr
+bluej.teamsettings.yourEmail=antoine.aubert@edu.esiee.fr
+bluej.teamsettings.git.repositoryPrefix=/auberta/zuul_aubert.a.git
+bluej.teamsettings.vcs=git
+bluej.teamsettings.user=auberta
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.ignore8=\\.DS_Store

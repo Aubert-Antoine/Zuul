@@ -1,0 +1,4 @@
+look key
+go up
+help
+quit

@@ -1,0 +1,205 @@
+
+Welcome to the World of Zuul!
+World of Zuul is a new, adventure game.
+ 
+You play to: nom du j.
+made by: Aubert Antoine
+ 
+ 
+You are on board of Enola Gay (b-29),around the end of ww2, the game is a remake of ... mission.
+ 
+Type 'help' if you need help.
+You are on the tarmac at the airport, next to your plane..
+Items:  Key
+Exits:  up
+> test complet
+> prb
+I don't know what you mean...
+> look
+You are on the tarmac at the airport, next to your plane..
+Items:  Key
+Exits:  up
+> look prb
+Unknown Item
+> look key
+Unknown Item
+> eat
+Eat has a second word...
+> eat prb
+Eat what ? You need to have on you the item to eat it
+> help
+You must complete your mission, captain.
+You fly in the air.
+ 
+Your command words are: go help quit look eat back test take drop items 
+> help prb
+You must complete your mission, captain.
+You fly in the air.
+ 
+Your command words are: go help quit look eat back test take drop items 
+> take
+take has a second word... Take what ?
+> take prb
+this item is not here !
+> take Key
+Key has been taken successfully !
+> drop
+drop has a second word... Drop what ?
+> drop prb
+this item is not owned !
+> drop Key
+Key has been dropped successfully !
+> drop Key
+this item is not owned !
+> take Key
+Key has been taken successfully !
+> take Key
+this item is not here !
+> items
+Your Items:  Key
+Your total weight are: 0.1 / 32.0
+> items prb
+Your Items:  Key
+Your total weight are: 0.1 / 32.0
+> back
+You are at the start !
+You are on the tarmac at the airport, next to your plane..
+Items: 
+Exits:  up
+> back prb
+Back doesn't have a second word...
+> go
+Go where?
+> go prb
+Unknown direction
+> go up
+You are in A10.
+Items: 
+Exits:  east up
+> go east
+You are in A11.
+Items:  Converting-table
+Exits:  east
+> look Converting-table
+Converting-table : allows to converting cipher "1337 SP34K";  ( 2.0 Kg).
+> take Converting-table
+Converting-table has been taken successfully !
+> go east
+You are in vA12.
+Items: 
+Exits:  up
+> go up
+You are in A20.
+Items: 
+Exits:  west down
+> go down
+You are in A30.
+Items:  Map
+Exits:  down
+> look Map
+Map : Is needed to goes to A40 ( 0.5 Kg).
+> take Map
+Map has been taken successfully !
+> go down
+You are in A31.
+Items: 
+Exits:  down futur
+> go futur
+You are in A20.
+Items: 
+Exits:  west down
+> go west
+You are in A40.
+Items:  Tools Petrol
+Exits:  south up cockpit
+> look Tools
+Tools : can help to repare something ( 8.7 Kg).
+> take Tools
+Tools has been taken successfully !
+> look Petrol
+Petrol : Is needed to flight. Becarefull: no petrol = crash ( 60.0 Kg).
+> take Petrol
+The weight is too heavy, drop some items to take it !
+> go south
+You are in A41.
+Items: 
+Exits:  up down
+> go down
+You are in A50.
+Items:  Bomb
+Exits:  down cockpit
+> go cockpit
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+> go magical-place
+You are in a magical place.
+Items:  Drugs
+Exits:  exit
+> look Drugs
+Drugs : can increased your weight max ( 0.3 Kg).
+> take Drugs
+Drugs has been taken successfully !
+> eat Drugs
+Your weight max is increased !
+> drop Drugs
+this item is not owned !
+> items
+Your Items:  Map Key Converting-table Tools
+Your total weight are: 11.6 / 64.0
+> go exit
+You are in the soute.
+Items: 
+Exits:  cockpit reserve
+> go reserve
+You are in the reserve.
+Items: 
+Exits:  cockpit soute
+> go cockpit
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+> go A-40
+You are in A40.
+Items:  Petrol
+Exits:  south up cockpit
+> take Petrol
+The weight is too heavy, drop some items to take it !
+> back
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+> back
+You are in the reserve.
+Items: 
+Exits:  cockpit soute
+> go cockpit
+You are in the cockpit.
+Items: 
+Exits:  reserve soute magical-place A-40 A-50
+> go A-50
+You are in A50.
+Items:  Bomb
+Exits:  down cockpit
+> look Bomb
+Bomb : It's the final item to use, to complet your mission ( 80.0 Kg).
+> take Bomb
+The weight is too heavy, drop some items to take it !
+> go down
+You are End...well done.
+Items: 
+Exits: 
+> drop Key
+Key has been dropped successfully !
+> drop Map
+Map has been dropped successfully !
+> drop Petrol
+this item is not owned !
+> drop Tools
+Tools has been dropped successfully !
+> drop Converting-table
+Converting-table has been dropped successfully !
+> quit prb
+Quit don't have a second word !
+> quit
+Thank you for playing.  Good bye.

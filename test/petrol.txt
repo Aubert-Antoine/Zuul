@@ -1,0 +1,12 @@
+go up
+go up
+go up
+go west
+go cockpit
+go magical-place
+take Drugs
+eat Drugs
+back
+back
+take Petrol
+use Petrol
